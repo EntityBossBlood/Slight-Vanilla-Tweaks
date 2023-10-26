@@ -1,5 +1,3 @@
-# Minecraft-Utilities
-
 ![image](https://github.com/EntityBossBlood/Slight-Vanilla-Tweaks/assets/148834782/b9c45925-1f1d-4191-9468-ae36d41573fe)
 
 Hello! Welcome Back i finally made my third Datapack. and yes it is what the name says. Minecraft Utilities.
