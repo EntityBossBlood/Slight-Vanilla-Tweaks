@@ -31,7 +31,7 @@ Cakes are now destroyable and are pickable after being destroyed
 
 You are able to pick up spawner blocks with a pickaxe that has silk touch
 
-                             ![Minecraft-Utilities-10-26-2023](https://github.com/EntityBossBlood/Slight-Vanilla-Tweaks/assets/148834782/b48e4104-e8c5-4d4d-b522-d8d95fe4d81f)
+![Minecraft-Utilities-10-26-2023](https://github.com/EntityBossBlood/Slight-Vanilla-Tweaks/assets/148834782/b48e4104-e8c5-4d4d-b522-d8d95fe4d81f)
 
 Sponges can be dried by using an empty bucket on them by right-clicking on the sponge
 
